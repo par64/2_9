@@ -27,3 +27,4 @@ emailInput.addEventListener("input", function () {
     submitBtn.disabled = false; // Скрывайте сообщение об ошибке и разблокируйте кнопку
   }
 });
+ 
